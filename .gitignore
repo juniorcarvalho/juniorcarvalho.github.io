@@ -1,0 +1,6 @@
+venv/
+static/
+start_dev.sh
+src/pelican-themes/
+src/output/
+src/content/image/
